@@ -9,5 +9,4 @@ optional arguments:
   ## MD5批量解密
   
   hash --path hashes.txt
-  
- http://md5.lr3800.com/
+
